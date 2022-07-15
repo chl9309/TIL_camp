@@ -13,8 +13,6 @@ i=0
 player = int(input())
 
 
-edf bot():
-
-    while i<player:
-        print(greeting)
-        i+=1
+while i<player:
+    print(greeting)
+    i+=1
